@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: phoopwintchothar1@gmail.com
 ## 🧠 Languages I Use the Most
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=10&theme=gruvbox)
