@@ -5,7 +5,7 @@
 ### 📈 Detailed Language Statistics
 
 <!-- Circular/Donut visualization at the top -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=donut-vertical&langs_count=8&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC&hide_border=false"/>
+<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=donut-vertical&langs_count=8&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC&hide_border=false"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 <!-- Dynamic skill badges calculated from your repos -->
 <div align="center">
 
-![](https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,django,flask,mongodb,postgres,mysql,redis,git,github,docker,kubernetes,aws,gcp,linux,html,css,tailwind,bootstrap,webpack,vite,jest,cypress&theme=light)
+![](https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,git,github,html,css,bootstrap,fastapi,c,csharp,assembly,openai&theme=light)
 
 </div>
 
@@ -61,8 +61,7 @@
 
 [![Email](https://img.shields.io/badge/Email-0D273D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoopwintchothar1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3E6985?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoopwintchothar1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8AA7BC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![GitHub followers](https://img.shields.io/github/followers/PhooPwintChoThar?label=Follow&style=social)](https://github.com/PhooPwintChoThar)
+
 
 <img src="https://komarev.com/ghpvc/?username=PhooPwintChoThar&color=3E6985&style=flat-square&label=Profile+Views" alt="Profile views" />
 
