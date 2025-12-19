@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Phoo Pwint Cho Thar
+# Hi there! 👋 I'm Thar
 
 <div align="center">
 
