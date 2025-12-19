@@ -16,7 +16,7 @@
 <!-- Dynamic skill badges calculated from your repos -->
 <div align="center">
 
-![](https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,git,github,html,css,bootstrap,fastapi,c,csharp,assembly,openai&theme=light)
+![](https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,git,github,html,css,bootstrap,fastapi,c,cs,assembly,openai&theme=light)
 
 </div>
 
