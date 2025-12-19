@@ -31,16 +31,7 @@
 
 </div>
 
----
 
-### 🔥 Contribution Streak
-
-<div align="center">
-
-<!-- Dynamic Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PhooPwintChoThar&theme=default&background=CDD7DF&ring=0D273D&fire=3E6985&currStreakLabel=0D273D&sideNums=3E6985&currStreakNum=0D273D&dates=8AA7BC&sideLabels=A6BED1&stroke=8AA7BC&border=A6BED1)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
