@@ -23,11 +23,11 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PhooPwintChoThar&show_icons=true&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&icon_color=8AA7BC&border_color=A6BED1"
+  height="180em"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhooPwintChoThar&show_icons=true&theme=default&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&icon_color=8AA7BC&border_color=A6BED1&hide_border=false&count_private=true&include_all_commits=true"/>
-
-</div>
 
 ---
 
