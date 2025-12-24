@@ -21,12 +21,11 @@
 
 ---
 
-
 ### 📊 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhooPwintChoThar&theme=custom&bg_color=CDD7DF&color=0D273D&line=3E6985&point=8AA7BC&area=true&hide_border=false&area_color=A6BED1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhooPwintChoThar&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
