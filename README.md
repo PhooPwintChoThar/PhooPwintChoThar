@@ -4,7 +4,7 @@
 
 ### 📈 Detailed Language Statistics
 
-<img height="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC&hide_border=false"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=8&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC)
 
 </div>
 
