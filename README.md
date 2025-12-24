@@ -4,7 +4,8 @@
 
 ### 📈 Detailed Language Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=8&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC)
+<!-- Circular/Donut visualization at the top -->
+<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=donut-vertical&langs_count=8&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC&hide_border=false"/>
 
 </div>
 
@@ -20,15 +21,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://metrics.lecoq.io/PhooPwintChoThar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=0D273D,3E6985,8AA7BC,A6BED1,CDD7DF&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup,programming&languages.recent.categories=markup,programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FBangkok)
-
-</div>
-
----
 
 ### 📊 Contribution Graph
 
