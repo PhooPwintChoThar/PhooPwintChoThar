@@ -1,14 +1,13 @@
 # Hi there! 👋 I'm Thar
 
 <div align="center">
-
-### 📈 Detailed Language Statistics
-
-<!-- Circular/Donut visualization at the top -->
-<img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=donut-vertical&langs_count=8&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC&hide_border=false"/>
-
+<!-- Using alternative host -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=8&theme=default&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC" alt="Top Languages" />
+<!-- Backup option if above doesn't work -->
+<!-- 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhooPwintChoThar&theme=default" alt="Languages" />
+-->
 </div>
-
 ---
 
 ### 🚀 Skills Overview
@@ -25,7 +24,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhooPwintChoThar&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhooPwintChoThar&theme=custom&bg_color=CDD7DF&color=0D273D&line=3E6985&point=8AA7BC&area=true&area_color=A6BED1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
