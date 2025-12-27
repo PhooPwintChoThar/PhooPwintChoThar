@@ -3,6 +3,7 @@
 <div align="center">
 <!-- Using alternative host -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=8&theme=default&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC" alt="Top Languages" />
+
 <!-- Backup option if above doesn't work -->
 <!-- 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhooPwintChoThar&theme=default" alt="Languages" />
