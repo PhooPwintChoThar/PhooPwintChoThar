@@ -1,14 +1,25 @@
 # Hi there! 👋 I'm Thar
 
 <div align="center">
-<!-- Using alternative host -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=8&theme=default&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC" alt="Top Languages" />
 
-<!-- Backup option if above doesn't work -->
-<!-- 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhooPwintChoThar&theme=default" alt="Languages" />
+### 📈 Detailed Language Statistics
+
+<!-- To include private repos, you need to deploy your own instance with a GitHub token -->
+<!-- Follow these steps:
+1. Go to: https://github.com/settings/tokens/new
+2. Create a token with 'repo' scope
+3. Deploy your own vercel instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+4. Add your token as VERCEL_TOKEN environment variable
+5. Replace the URL below with your deployed instance
 -->
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=10&theme=default&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC&exclude_repo=repo-to-exclude&hide=html,css" alt="Top Languages" />
+
+<!-- Alternative: Show all public languages without filters -->
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PhooPwintChoThar&layout=compact&langs_count=15&theme=default&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&border_color=8AA7BC" alt="Top Languages" /> -->
+
 </div>
+
 ---
 
 ### 🚀 Skills Overview
@@ -16,6 +27,20 @@
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,git,github,html,css,bootstrap,fastapi,c,cs,wasm&theme=light)
+
+</div>
+
+---
+
+### 📊 GitHub Summary
+
+<div align="center">
+
+<!-- Comprehensive GitHub Stats -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PhooPwintChoThar&show_icons=true&count_private=true&include_all_commits=true&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&icon_color=8AA7BC&border_color=A6BED1" alt="GitHub Stats"/>
+
+<!-- Streak Stats - Alternative design -->
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=PhooPwintChoThar&theme=default&background=CDD7DF&ring=0D273D&fire=3E6985&currStreakLabel=0D273D&sideNums=3E6985&currStreakNum=0D273D&dates=8AA7BC&sideLabels=A6BED1&stroke=8AA7BC&border=A6BED1&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
