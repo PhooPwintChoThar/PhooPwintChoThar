@@ -62,8 +62,8 @@
 
 [![Email](https://img.shields.io/badge/Email-0D273D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoopwintchothar1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3E6985?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phoopwintchothar1/)
-
-<img src="https://komarev.com/ghpvc/?username=PhooPwintChoThar&color=3E6985&style=flat-square&label=Profile+Views" alt="Profile views" />
+<!--
+<img src="https://komarev.com/ghpvc/?username=PhooPwintChoThar&color=3E6985&style=flat-square&label=Profile+Views" alt="Profile views" /> -->
 
 </div>
 
