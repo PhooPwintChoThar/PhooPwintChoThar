@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### 📈 Detailed Language Statistics
-
 <!-- To include private repos, you need to deploy your own instance with a GitHub token -->
 <!-- Follow these steps:
 1. Go to: https://github.com/settings/tokens/new
