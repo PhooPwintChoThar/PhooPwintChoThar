@@ -37,9 +37,6 @@
 <!-- Comprehensive GitHub Stats -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PhooPwintChoThar&show_icons=true&count_private=true&include_all_commits=true&bg_color=CDD7DF&title_color=0D273D&text_color=3E6985&icon_color=8AA7BC&border_color=A6BED1" alt="GitHub Stats"/>
 
-<!-- Streak Stats - Alternative design -->
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=PhooPwintChoThar&theme=default&background=CDD7DF&ring=0D273D&fire=3E6985&currStreakLabel=0D273D&sideNums=3E6985&currStreakNum=0D273D&dates=8AA7BC&sideLabels=A6BED1&stroke=8AA7BC&border=A6BED1&hide_border=false" alt="GitHub Streak"/>
-
 </div>
 
 ---
